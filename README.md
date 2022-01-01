@@ -1,6 +1,8 @@
 ### Hi there, I'm Jay 👋
 
-[spacectl.dev](https://spacectl.dev/) -- currently work in progress
+### Work in progress... 
+- Website [spacectl.dev](https://spacectl.dev/)
+- RocketChat Instance [chat.spacectl.dev](https://chat.spacectl.dev)
 
 ## I'm a Network and System Administrator and an aspiring SRE
 - 🌱 I’m currently learning everything 🤣
