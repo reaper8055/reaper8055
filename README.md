@@ -1,6 +1,6 @@
 ### Hi there, I'm Jay 👋
 
-### Work in progress... 
+## Work in progress... 
 - Website [spacectl.dev](https://spacectl.dev/)
 - RocketChat Instance [chat.spacectl.dev](https://chat.spacectl.dev)
 
