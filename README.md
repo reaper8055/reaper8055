@@ -1,6 +1,6 @@
-### Hi there, I'm Jay - [spacectl.dev][website] 👋
+### Hi there, I'm Jay 👋
 
-[spacectl.dev][website] -- currently work in progress
+[spacectl.dev](https://spacectl.dev/) -- currently work in progress
 
 ## I'm a Network and System Administrator and an aspiring SRE
 - 🌱 I’m currently learning everything 🤣
