@@ -4,7 +4,7 @@
 
 ## I'm a Network and System Administrator and an aspiring SRE
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Write articles about Linux, DevOps technologies, etc.
+- 🥅 2022 Goals: Write articles about Linux, DevOps technologies, etc.
 - ⚡ Fun fact: I love to draw.
 
 ### Connect with me:
