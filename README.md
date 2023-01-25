@@ -12,4 +12,4 @@
 - Actively participate in reviewing, authoring and suggesting application design with Developer teams to reach a general consensus on infrastructure demands and service deployment expectations.
 
 ## Work in progress... 
-- Website [spacectl.dev](https://sleepyowl.dev/)
+- Website [sleepyowl.dev](https://sleepyowl.dev/)
