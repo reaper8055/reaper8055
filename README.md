@@ -1,8 +1,12 @@
 ### Hi there, I'm Jay 👋
 
+<p align="center">
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/reaper8055/reaper8055/blob/master/devcard.svg" width="400" alt="reaper8055's Dev Card"/></a>
+</p>
 
-## I'm a SRE
+### [Resume](https://github.com/reaper8055/reaper8055/files/10498836/github_resume.pdf "resume")
+
+## I'm a SRE 
 - 🌱 I’m currently learning eBPF
 - ⚡ Fun fact: I love to draw.
 
