@@ -4,10 +4,11 @@
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/reaper8055/reaper8055/blob/master/devcard.svg" width="400" alt="reaper8055's Dev Card"/></a>
 </p>
 
-### [Resume](https://github.com/reaper8055/reaper8055/files/10498836/github_resume.pdf "resume")
+## My career so far...
+- Link to my [resume](https://github.com/reaper8055/reaper8055/files/10508318/resume_compressed.pdf)
 
 ## I'm a SRE 
-- 🌱 I’m currently learning eBPF
+- 🌱 I’m currently learning eBPF.
 - ⚡ Fun fact: I love to draw.
 
 ## What I genrally do as a SRE?
