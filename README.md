@@ -16,5 +16,8 @@
 - Blameless postmortems to identify underlying issues and root causes whether it be lack of communication within global teams, bad config, etc.
 - Actively participate in reviewing, authoring and suggesting application design with Developer teams to reach a general consensus on infrastructure demands and service deployment expectations.
 
+## Like what I do? Hire me
+- @[upwork](https://www.upwork.com/freelancers/reaper8055)
+
 ## Work in progress... 
 - Website [sleepyowl.dev](https://sleepyowl.dev/)
