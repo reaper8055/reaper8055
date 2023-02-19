@@ -7,7 +7,7 @@
 ## My career so far...
 - Link to my [resume](https://github.com/reaper8055/reaper8055/files/10508318/resume_compressed.pdf)
 
-## I'm a SRE 
+## I'm a SRE by profession and a Go Developer by heart
 - 🌱 I’m currently learning eBPF.
 - ⚡ Fun fact: I love to draw.
 
